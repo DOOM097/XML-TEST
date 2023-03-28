@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <country>
+        <name>Estonia</name>
+        <language>
+            <lang isOfficial="True">Estonian</lang>
+            <lang>Russian</lang>
+        </language>
+        <currency name="Euro" sign="€"></currency>
+    </country>  
+    <country>
+        <name>Ukraine</name>
+        <language>
+            <lang isOfficial="True">Ukrainian</lang>
+        </language>
+        <currency name="UAH" sign="₴"></currency>
+    </country> 
+    <country>
+        <name>USA</name>
+        <language>
+            <lang isOfficial="True">English</lang>
+
+        </language>
+        <currency name="USD" sign="$"></currency>
+    </country> 
+    <country>
+        <name>England</name>
+        <language>
+            <lang isOfficial="True">English</lang>
+
+        </language>
+        <currency name="lb." sign="£"></currency>
+    </country> 
+    <country>
+        <name>Nigeria</name>
+        <language>
+            <lang isOfficial="True">English</lang>
+
+        </language>
+        <currency name="NGN" sign="₦"></currency>
+    </country>  
+    <country>
+        <name>France</name>
+        <language>
+            <lang isOfficial="True">French</lang>
+
+        </language>
+        <currency name="FRF" sign="₣"></currency>
+    </country> 
+    <country>
+        <name>Germany</name>
+        <language>
+            <lang isOfficial="True">German</lang>
+        </language>
+        <currency name="Euro" sign="€"></currency>
+    </country> 
+    <country>
+        <name>Sweden</name>
+        <language>
+            <lang isOfficial="True">Swedish</lang>
+            <lang>English</lang>
+        </language>
+        <currency name="SEK" sign="kr"></currency>
+    </country> 
+    <country>
+        <name>Zambia</name>
+        <language>
+            <lang>English</lang>
+        </language>
+        <currency name="ZMK" sign="ZK"></currency>
+    </country> 
+
+    <country>
+        <name>Japan</name>
+        <language>
+            <lang isOfficial="True">Japanese</lang>
+        </language>
+        <currency name="JPY" sign="¥"></currency>
+    </country> 
+
+
+</root>

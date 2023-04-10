@@ -1,0 +1,29 @@
+<?xml-model href="books.xsd"?>
+<Books>
+    <Book>
+        <BookID>1</BookID>
+        <ISBN>987-3123123</ISBN>
+        <Title>Pro ASP.NET MVC 4</Title>
+        <Description>The ASP.NET MVC 5 Framework is the latest evolution of Microsoft`s A</Description>
+        <Price>38.5</Price>
+        <Pages>300</Pages>
+        <Year>2013-01-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="2" firstname="Adam" lastname="Freeman"/>
+        </Authors>
+    </Book>
+    <BookID>2</BookID>
+        <ISBN>312-3527843</ISBN>
+        <Title>Pro ASP.NET MVC 4</Title>
+        <Description>An outstanding author team presents the ultimate Wrox guide to ASP.N</Description>
+        <Price>24.5</Price>
+        <Pages>521</Pages>
+        <Year>2012-03-16</Year>
+        <Language>ENG</Language>
+        <Category>Web</Category>
+        <Authors>
+            <Author AuthorID="2" firstname="Adam" lastname="Freeman"/>
+        </Authors>
+</Books>

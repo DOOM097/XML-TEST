@@ -1,0 +1,6 @@
+<!ELEMENT root (currencys)>
+<!ELEMENT currencys (currency+)>
+<!ELEMENT currency (country,year)>
+<!ATTLIST currency title ID #REQUIRED>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT year (#PCDATA)>

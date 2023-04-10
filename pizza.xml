@@ -1,130 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "pizza1.dtd">
 <root>
-    <pizza>
-        <name>Маргарита</name>
-        <image>https://www.good-menu.ru/img/pirozhki/pirozki18m.jpg</image>
-        <discription>
-            Это самый простой рецепт начинки для пиццы, состоящий всего из трех ингредиентов.<p></p>
-            Помимо утонченного вкуса и красоты эта пицца символизирует итальянский флаг,<p></p>
-            в ней присутствуют традиционные цвета: красный, белый и зеленый. <p></p>
-            Рецепт пиццы «Маргарита» был изобретен еще в 1889 году в честь королевы Маргариты Савойской,<p></p>
-            и по сей день эту пиццу величают не иначе как Маргарита.
-        </discription>
-        <compound>
-            <Ingredients>томатный соус<p></p>
-                200 гр. сыра Моцарелла<p></p>
-                базилик</Ingredients>
-        </compound>
-        <recept>
-            Итак, сначала готовим тесто для пиццы. <p></p>
-            Вот рецепт теста из свежих дрожжей, вот рецепт теста из сухих дрожжей.<p></p>
-            Первый традиционный, второй более быстрый и практичный.<p></p>
-            На подготовленную основу наносим достаточно толстый слой томатного соуса. <p></p>
-            Чтобы соус получился более густым и насыщенным, сначала прожариваем его на огне.<p></p>
-            Соус обязательно пробуем, добавляем соль, сахар и перец по вкусу.
-        </recept>
+    <pizzas>
+        <pizza title="Pizza Margherita">
+            <ingredients>
+                <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                <ingredient amount="80 gr">Cheese Mocarella</ingredient>
+                <ingredient amount="7 tk">Tomatoes</ingredient>
+                <ingredient amount="taste">Basilik</ingredient>
+                <ingredient amount="1 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Roll out the pizza dough with a thickness of 2-3 mm, with a diameter of 32-35 cm. Put tomato sauce on the rolled out base</step>
+                <step>Now we need to bake the cake, we do this in order to make the dough crispy and well baked.</step>
+                <step>While the cake is baking, cut the mozzarella into plates 5-10 mm thick. We tear off pieces from slices of cheese and randomly lay them out on a hot base.</step>
+                <step>Tear large basil leaves in half or smaller, lay out on top of pizza, put small leaves whole. Again we send our pizza to the oven preheated to the maximum temperature for 5-10 minutes</step>
+                <step>Serve the pizza immediately while it is hot. Top with fresh basil leaves. Pizza Margherita is ready.</step>
+            </steps>
+        </pizza>
 
-    </pizza>  
-    <pizza>
-        <name>Четыре сыра</name>
-        <image>https://www.good-menu.ru/img/pirozhki/pirozki17-1.jpg</image>
-        <discription>
-            Начинка для этой пиццы готовится из четырех разных сыров,<p></p>
-             и может порадовать любителей сыра своей нежностью и изысканным вкусом.<p></p>
-              Как правило, берут нежный сыр Моцарелла, синий сыр с плесенью Рокфор,<p></p>
-               сыр Гауда или Чеддер и любой козий сыр. Благодаря комбинации этих<p></p>
-                четырех сыров получается уникальный и неповторимый вкус. <p></p>
-                Советую обязательно приготовить эту пиццу.
-        </discription>
-        <compound>
-            <Ingredients>100 мл. томатного соуса<p></p>
-                100 гр. сыра Моцарелла<p></p>
-                30 гр. сыра Рокфор<p></p>
-                50 гр. сыра Гауда<p></p>
-                50 гр. козьего сыра
-                орегано</Ingredients>
+        <pizza title="Pizza Siciliana">
+            <ingredients>
+                <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                <ingredient amount="50 gr">Cheese Mocarella</ingredient>
+                <ingredient amount="450 gr">Flour</ingredient>
+                <ingredient amount="5 tk">Canned Tomatoes</ingredient>
+                <ingredient amount="taste">Basilik</ingredient>
+                <ingredient amount="2 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Start kneading the dough. Pour the olive oil in parts, kneading the dough each time. Leave the dough for about 10 minutes</step>
+                <step>Sauce gently, without pressing with a spoon, spread over the pizza base at the rate of about 2-3 tbsp. Spoons of sauce for each pizza. Place balls or pieces of mozzarella on top.</step>
+                <step>Bake Neapolitan pizza at the highest temperature your oven can give.</step>
+                <step>Remove the finished Neapolitan pizza from the oven, drizzle with olive oil, sprinkle with Parmesan and garnish with basil leaves. Serve Neapolitan pizza immediately after cooking.</step>
+            </steps>
+        </pizza>
 
-        </compound>
-        <recept>Готовим тесто для пиццы. Формируем тонкую плоскую основу, на которую наносим густой томатный соус для пиццы.<p></p>
-            Сыр Моцарелла режем тонкими пластинами и укладываем сверху.</recept>
-
-    </pizza>  
-    <pizza>
-        <name>Пицца с салями
-        </name>
-        <image>https://www.good-menu.ru/img/pirozhki/pirozki17m.jpg</image>
-        <discription>
-            
-            Тоже довольно простая в приготовлении начинка для пиццы,<p></p>
-             главный ингредиент которой - это колбаса салями. <p></p>
-             Как известно, салями обладает очень насыщенным вкусом <p></p>
-             из-за большого количества специй и соли, поэтому пицца<p></p>
-              тоже получается очень ароматная и вкусная.
-
-        </discription>
-        <compound>
-            <Ingredients>100 гр. салями<p></p>
-                150 гр. тертого сыра Моцарелла<p></p>
-                50 гр. бекона или ветчины<p></p>
-                50 гр. консервированных шампиньонов<p></p>
-                томатный соус<p></p>
-                орегано</Ingredients>
-
-        </compound>
-        <recept>Как обычно, готовим основу для пиццы, тонким слоем распределяем томатный соус. <p></p>
-            Обильно посыпаем тертым сыром Моцарелла.<p></p>
-            Кладем мелко нарезанный бекон или ветчину.<p></p>
-            При помощи маленькой ложечки создаем островки соуса песто.</recept>
-
-    </pizza>  
-    <pizza>
-        <name>Деревенская</name>
-        <image>https://www.good-menu.ru/img/pirozhki/pirozki37m.jpg</image>
-        <discription>
-            Деревенская пицца - это одна из немногих итальянских пицц,<p></p>
-             в которой вместо томатного соуса используется соус Бешамель,<p></p>
-              который готовится на основе молока, масла и муки. <p></p>
-              Как приготовить бешамель, читаем здесь.
-        </discription>
-        <compound>
-
-            <Ingredients>80 гр. сыра Моцарелла<p></p>
-                50 гр. жареных шампиньонов<p></p>
-                30 гр. бекона<p></p>
-                30 гр. жареного лука<p></p>
-                50 гр. жареного картофеля<p></p>
-                соус Бешамель<p></p>
-                орегано</Ingredients>
-
-        </compound>
-        <recept>Как обычно, тонко раскатываем тесто и выкладываем его на противне.<p></p>
-            Тонким слоем наносим густой томатный соус.<p></p>
-            Посыпаем тертым сыром, выкладываем кружочки тонко порезанной колбасы салями.</recept>
-
-    </pizza>  
-    <pizza>
-        <name>Кебаб</name>
-        <image>https://www.good-menu.ru/img/pirozhki/pirozki52m.jpg</image>
-        <discription>
-            Пицца Кебаб готовится с курицей и отличается острой начинкой.<p></p>
-             Куриное мясо обжариваем на растительном масле, солим, обильно перчим.<p></p>
-        </discription>
-        <compound>
-            <Ingredients>40 гр. сыра Моцарелла<p></p>
-                100 гр. жареной курицы<p></p>
-                20 гр. маринованного лука<p></p>
-                20 гр. красного болгарского перца<p></p>
-                10 гр. острого зеленого перца (консервированного)<p></p>
-                томатный соус<p></p>
-                орегано, <p></p>черный перец</Ingredients>
-
-        </compound>
-        <recept>Тонко раскатываем тесто для пиццы, причем слово тонко является главным, <p></p>
-            ведь настоящая итальянская пицца это не русский пирог, она всегда тонкая.<p></p>
-            Тонко раскатанное тесто кладем на противень. Основу по всей площади слегка прокалываем вилкой,<p></p>
-             а затем смазываем молочно-сливочным соусом Бешамель.<p></p>
-            Посыпаем тертым сыром.<p></p>
-            Равномерно распределяем по всей поверхности пиццы бекон, жареные грибы, лук и картошку.</recept>
-
-    </pizza>  
+        <pizza title="Pizza Romena">
+            <ingredients>
+                    <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                    <ingredient amount="250 gr">Flour</ingredient>
+                    <ingredient amount="10 tk">Anchovy fillet</ingredient>
+                    <ingredient amount="taste">Arugula</ingredient>
+                    <ingredient amount="2 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Remove the main pizza dough from the refrigerator in advance. Take the desired part of the dough and leave it on a board sprinkled with semolina or other flour, covered with a kitchen towel</step>
+                <step>Lightly brush the surface of the pizza with tomato sauce, leaving the edge of the dough clean.</step>
+                <step>Spread the mozzarella cheese and drizzle the pizza with olive oil.</step>
+                <step>Insert the pizza pan into the preheated oven, or carefully slide the pizza off the spatula onto the stone and bake until cooked through, 8 to 10 minutes</step>
+                <step>Take Roman's pizza out of the oven, top with arugula leaves and serve.</step>
+            </steps>
+        </pizza>
+    </pizzas>
 </root>

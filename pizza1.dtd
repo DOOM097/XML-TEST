@@ -1,0 +1,9 @@
+<!ELEMENT root (pizzas)>
+<!ELEMENT pizzas (pizza+)>
+<!ELEMENT pizza (ingredients,steps)>
+<!ATTLIST pizza title CDATA #REQUIRED>
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (#PCDATA)>
+<!ATTLIST ingredient amount CDATA #REQUIRED>
+<!ELEMENT steps (step+)>
+<!ELEMENT step (#PCDATA)>

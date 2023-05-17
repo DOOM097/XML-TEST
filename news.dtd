@@ -1,9 +1,0 @@
-<!ELEMENT rss (channel)>
-<!ATTLIST rss version NMTOKEN #REQUIRED>
-<!ELEMENT channel (item+)>
-<!ELEMENT item (title,description,pubDate,author,category)>
-<!ELEMENT title (#PCDATA)>
-<!ELEMENT description (#PCDATA)>
-<!ELEMENT pubDate (#PCDATA)>
-<!ELEMENT author (#PCDATA)>
-<!ELEMENT category (#PCDATA)>

@@ -1,0 +1,28 @@
+<?xml-model href="movies.xsd"?>
+<root>
+    <movie
+        title="Dragon" year="2011" rated="R" released="04 Jul 2011" runtime="98 min"
+        genre="Action, Crime, Drama" director="Peter Ho-Sun Chan" writer="Oi-Wah Lam, Joyce Chan"
+        actors="Donnie Yen, Takeshi Kaneshiro, Tang Wei"
+        plot="A papermaker gets involved with a murder case concerning two criminals leading to a determined detective suspecting him and the former's vicious father searching for him"
+        language="Mandarin, Cantonese" country="Hong Kong, China"
+        awards="14 wins and 21 nominations"
+        poster="https://m.media-amazon.com/images/M/MV5BMTc4OTUxMDQ1NF5BMl5BanBnXkFtZTcwOTczMDI2OA@@._V1_SX300.jpg"
+        metascore="62" imdbRating="7.0" imdbVotes="15,279" imdbID="tt1718199" type="movie" />
+    <movie
+        title="Hui Buh: Das Schlossgespenst" year="2006" rated="N/A" released="20 Jul 2006"
+        runtime="103 min" genre="Animation, Adventure, Comedy" director="Sebastian Niemann"
+        writer="Dirk Ahner, Eberhard Alexander Burgh, Sebastian Niemann"
+        actors="Michael Herbig, Christoph Maria Herbst, Heike Makatsch"
+        plot="Five hundred years ago, Hui Buh cheated in a card game, thus was turned into a ghost by thunder lighting. For all this time, he has lived in the castle alone without anyone to scare. Until when King Julius moves in for his wedding..."
+        language="German" country="Germany" awards="N/A"
+        poster="https://m.media-amazon.com/images/M/MV5BZDY3MGI2NDUtYmM4Mi00MzQ2LThjYWYtODAxYTI2MzcwOWVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzA3Njg4MzY@._V1_SX300.jpg"
+        metascore="N/A" imdbRating="4.8" imdbVotes="3,087" imdbID="tt0428646" type="movie" />
+    <movie
+        title="Bogdan Khmelnitskiy" year="1941" rated="N/A" released="07 Apr 1941"
+        runtime="114 min" genre="Drama, History, War" director="Igor Savchenko"
+        writer="Aleksandr Korneychuk" actors="Nikolai Mordvinov, Boris Bezgin, Nikita Ilchenko"
+        plot="N/A" language="Russian, Ukrainian" country="Soviet Union" awards="1 win"
+        poster="https://m.media-amazon.com/images/M/MV5BMGYzODdiNjYtNmJjNS00ZjA1LWE0MjktODI0ZWJiMzRiODA2XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_SX300.jpg"
+        metascore="N/A" imdbRating="6.7" imdbVotes="104" imdbID="tt0033422" type="movie" />
+</root>

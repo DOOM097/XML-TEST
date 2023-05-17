@@ -1,51 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE rss SYSTEM "news.dtd">
 <?xml-model href="news.xsd"?>
-<news>
-    <item>
-    <title>Anne kanali ääres algavad tasuta välitrennid</title>
-    <description>Tartu linn alustab 24. aprillil taas tasuta välitreeningutega täiskasvanutele. 
-    Treeningud toimuvad esmaspäeviti kell 18.00 – 19.30 Anne kanali äärsel välijõusaali platsil.</description>
-    <link>https://pmo.ee/7750334</link>
-    <guid isPermaLink="false">pm#7750334</guid>
-    <pubDate>Mon, 10 Apr 2023 10:37:01 +0300</pubDate>
-    <author>Egeli Raudmäe</author>
-    <category domain="https://tartu.postimees.ee">Tartu Postimees</category>
-    <enclosure url="https://f11.pmo.ee/X8kxUvskIngfRPkWsvXm_6bFeMY=/480x270/smart/nginx/o/2023/04/10/15247498t1hee2e.jpg" length="" type="image/jpeg"/>
-    </item>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Netflix ilmoittaa julkaisevansa uuden sarjan</title>
+            <description>Streaming-palvelu Netflix julkisti uuden alkuperäisen sarjansa nimeltä
+                "Tulevaisuuden haasteet". Sarjan on määrä käsitellä yhteiskunnallisia ja
+                teknologisia haasteita tulevaisuudessa, ja se odotetaan julkaistavan ensi kuussa.</description>
+            <pubDate>Thu, 15 Mar 2023 18:30:00 -0800</pubDate>
+            <author>Netflix PR</author>
+            <category>Viihde</category>
+        </item>
+        <item>
+            <title>Täna esilinastub Apteeker Melchiori triloogia finaal!</title>
+            <description>Esmaspäeval, 10. aprillil jõuab kinodesse Apteeker Melchiori triloogia
+                kolmas osa ehk kodumaine mängufilm «Apteeker Melchior. Timuka tütar», mis on
+                režissöör Elmo Nüganeni sõnul eelmistest osadest pingestatum ja intensiivsem.</description>
+            <pubDate>Mon, 10 Apr 2023 10:19:35 +0300</pubDate>
+            <author>Kultuuritoimetus</author>
+            <category>Kultuur</category>
+        </item>
 
-    <item>
-    <title>Laupäeval põles ehitussoojak Vinni vallas</title>
-    <description>Laupäeva õhtupoolikul kell 17.36 teatati päästeametile ehitussoojaku põlengust Vinni vallas Pajusti alevikus.</description>
-    <link>https://pmo.ee/7750357</link>
-    <guid isPermaLink="false">pm#7750357</guid>
-    <pubDate>Mon, 10 Apr 2023 10:25:00 +0300</pubDate>
-    <author>Andres Tohver</author>
-    <category domain="https://virumaateataja.postimees.ee">Virumaa Teataja</category>
-    <category domain="https://virumaateataja.postimees.ee/section/385">Uudised</category>
-    <enclosure url="https://f12.pmo.ee/2Hq7aJrKw67TTlME0XG1aX505kI=/480x270/smart/nginx/o/2023/04/10/15247622t1hdde0.jpg" length="" type="image/jpeg"/>
-    </item>
+        <item>
+            <title>Tutkijat onnistui luomaan aikakoneen!</title>
+            <description>Yhdysvaltain tiedemaailmaa järkyttää uutinen aikakoneen onnistuneesta
+                luomisesta. Tutkijat väittävät keksineensä laitteen, joka suostui siirtämään kohteen
+                ajassa taaksepäin viiden minuutin verran.</description>
+            <pubDate>Mon, 01 Apr 2023 09:00:00 +0000</pubDate>
+            <author>Tiedetoimitus</author>
+            <category>Tiede</category>
+        </item>
 
-    <item>
-    <title>Loomaarst vastab: miks peaks koer porise ilmaga jopet kandma?</title>
-    <description>Lemmiku lugejatele on taas avatud nõuandenurgake, kus loomaomanikud saavad esitada loomaarstile küsimusi oma neljajalgsete sõprade kohta.</description>
-    <link>https://pmo.ee/7750338</link>
-    <guid isPermaLink="false">pm#7750338</guid>
-    <pubDate>Mon, 10 Apr 2023 10:24:29 +0300</pubDate>
-    <author>lemmik.postimees.ee</author>
-    <category domain="https://lemmik.postimees.ee">Lemmik</category>
-    <category domain="https://lemmik.postimees.ee/section/4105">Loomaarst vastab</category>
-    <enclosure url="https://f10.pmo.ee/_YD6Rr8ML-uTD80yUpqNi2kQfX0=/480x270/filters:focal(2169x1379:3406x1982)/nginx/o/2023/04/10/15247617t1ha01c.jpg" length="" type="image/jpeg"/>
-    </item>
-    
-    <item>
-    <title>Eesti eksport tegi väikse tõusu, import kukkus aga kokku</title>
-    <description>Statistikaameti andmetel suurenes veebruaris kaupade eksport 2 protsenti, import vähenes võrreldes möödunud aasta sama perioodiga 8 protsenti.</description>
-    <link>https://pmo.ee/7750352</link>
-    <guid isPermaLink="false">pm#7750352</guid>
-    <pubDate>Mon, 10 Apr 2023 10:23:22 +0300</pubDate>
-    <author>Toimetas Carl-Robert Puhm</author>
-    <category domain="https://majandus.postimees.ee">Majandus</category>
-    <enclosure url="https://f8.pmo.ee/1Na9vQ1eUluQ47---Py9fPqgcYY=/480x270/smart/nginx/o/2023/01/13/15077749t1h1ff5.jpg" length="" type="image/jpeg"/>
-    </item>
-</news>
+        <item>
+            <title>Netflix ilmoittaa julkaisevansa uuden sarjan</title>
+            <description>Streaming-palvelu Netflix julkisti uuden alkuperäisen sarjansa nimeltä
+                "Tulevaisuuden haasteet". Sarjan on määrä käsitellä yhteiskunnallisia ja
+                teknologisia haasteita tulevaisuudessa, ja se odotetaan julkaistavan ensi kuussa.</description>
+            <pubDate>Thu, 15 Mar 2023 18:30:00 -0800</pubDate>
+            <author>Netflix PR</author>
+            <category>Viihde</category>
+        </item>
+
+    </channel>
+</rss>
